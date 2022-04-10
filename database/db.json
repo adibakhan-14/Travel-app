@@ -1,0 +1,44 @@
+{
+    "trips": [
+        {
+            "id": "1",
+            "title": "Tour to Bandarban",
+            "duration":"4 nights 3 days",
+            "price": "8500tk",
+            "description": "We will start our journey from Sydabad. In this 4night and 3days journey we will travel Nilachol, Nilgiri, Debotakhum, Remacri, Boga Lake. We will do bar-b-q at night",
+            "total-seats": "40",
+            "location": "Dhaka",
+            "type": "Road"
+        },
+        {
+            "id": "2",
+            "title": "Tour to Sundarban",
+            "duration":"5 nights",
+            "price": "12000tk",
+            "description": "We will start our journey from Sadarghat. We will travel Dublarchor, Kotka, Monglar Port and Sundarban",
+            "total-seats": "20",
+            "location": "Dhaka",
+            "type": "Water"
+        },
+        {
+            "id": "3",
+            "title": "Tour to Sajek",
+            "duration":"3 nights 2days",
+            "price": "5500tk",
+            "description": "We will start our journey from Gabtoli. We will cover Khagrachori, Sajek, Konglak Pahar, Alutila Guha, Debota Pukur. We will do bar-b-q party at night and star gazing",
+            "total-seats": "50",
+            "location": "Dhaka",
+            "type": "Road"
+        },
+        {
+            "id": "4",
+            "title": "Tour to Cox's Bazar",
+            "duration":"4 nights 3days",
+            "price": "10000tk",
+            "description": "We will start our journey from Arambag. In this 4nights and 3days journey, we will travel Laboni point, Inani Beach, Kolatoli Point, Himchori, Moheshkhali and Merine Drive",
+            "total-seats": "12",
+            "location": "Dhaka",
+            "type": "Air"
+        }
+    ]
+}
